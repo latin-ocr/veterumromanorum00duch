@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumromanorum00duch_0193.png"; bbox 0 0 1748 2459; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 297 78 1316 138">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 297 78 1316 138">
+     <span class='ocr_line' id='line_1_1' title="bbox 297 78 1316 138; baseline 0.001 -15"><span class='ocrx_word' id='word_1_1' title='bbox 297 78 603 137; x_wconf 8' lang='lat' dir='ltr'>VETERUKM</span> <span class='ocrx_word' id='word_1_2' title='bbox 633 78 1033 138; x_wconf 16' lang='lat' dir='ltr'>R01MAN0RJUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1236 94 1316 138; x_wconf 85' lang='lat'>179</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 382 192 1010 246">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 382 192 1010 246">
+     <span class='ocr_line' id='line_1_2' title="bbox 382 192 1010 246; baseline -0.003 -5"><span class='ocrx_word' id='word_1_4' title='bbox 382 192 597 241; x_wconf 73' lang='lat' dir='ltr'><strong>IASPIS</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 614 193 1010 246; x_wconf 74' lang='lat' dir='ltr'><strong>ANTIQUUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 103 144 297 565">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 103 144 297 565">
+     <span class='ocr_line' id='line_1_3' title="bbox 103 144 297 565; baseline 0 -378"><span class='ocrx_word' id='word_1_6' title='bbox 103 144 297 565; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 119 285 1330 2154">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 119 285 1330 2154">
+     <span class='ocr_line' id='line_1_4' title="bbox 119 285 1330 2154; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 119 285 1330 2154; x_wconf 95' lang='lat' dir='ltr'>   </span> <span class='ocrx_word' id='word_1_8' title='bbox 558 764 1330 936; x_wconf 95' lang='lat' dir='ltr'>  </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 388 812 997 885">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 388 812 997 885">
+     <span class='ocr_line' id='line_1_5' title="bbox 388 812 997 885; baseline 0.007 -5"><span class='ocrx_word' id='word_1_9' title='bbox 388 813 416 815; x_wconf 66' lang='grc'><em>”</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 489 812 997 885; x_wconf 39' lang='grc' dir='ltr'>ΧΤΙΤΕῑζῑιῑῑῖςῗἡ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 239 894 558 922">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 239 894 558 922">
+     <span class='ocr_line' id='line_1_6' title="bbox 239 894 558 922; baseline 0.003 -4"><span class='ocrx_word' id='word_1_11' title='bbox 239 894 425 922; x_wconf 48' lang='grc' dir='ltr'>ςΛΕΟΕΝ·</span> <span class='ocrx_word' id='word_1_12' title='bbox 429 896 545 922; x_wconf 62' lang='lat' dir='ltr'>YEUS</span> <span class='ocrx_word' id='word_1_13' title='bbox 553 911 558 919; x_wconf 60' lang='lat'><em>2</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

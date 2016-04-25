@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumromanorum00duch_0315.png"; bbox 0 0 1748 2459; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 123 457 1528 699">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 123 457 1528 699">
+     <span class='ocr_line' id='line_1_1' title="bbox 123 457 1528 699; baseline -0.001 -22"><span class='ocrx_word' id='word_1_1' title='bbox 123 457 1528 699; x_wconf 56' lang='lat' dir='ltr'>CASTRAffiTATIONE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 168 848 1597 971">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 168 848 1597 971">
+     <span class='ocr_line' id='line_1_2' title="bbox 168 848 1597 971; baseline -0.003 -40"><span class='ocrx_word' id='word_1_2' title='bbox 168 849 866 931; x_wconf 87' lang='lat' dir='ltr'><strong>DISCIPLINA</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 900 848 1466 930; x_wconf 82' lang='lat' dir='ltr'>MILITARI</span> <span class='ocrx_word' id='word_1_4' title='bbox 1593 967 1597 971; x_wconf 16' lang='grc' dir='ltr'>ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 300 1019 1344 1136">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 300 1019 1344 1136">
+     <span class='ocr_line' id='line_1_3' title="bbox 300 1019 1344 1136; baseline 0.002 -25"><span class='ocrx_word' id='word_1_5' title='bbox 300 1019 1344 1136; x_wconf 76' lang='lat' dir='ltr'>ROMANORUM·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumromanorum00duch_0393.png"; bbox 0 0 1748 2459; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 427 88 1157 137">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 427 88 1157 137">
+     <span class='ocr_line' id='line_1_1' title="bbox 427 88 1157 137; baseline 0.007 -7"><span class='ocrx_word' id='word_1_1' title='bbox 427 88 718 137; x_wconf 46' lang='lat' dir='ltr'>VETTERUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 752 89 1157 134; x_wconf 45' lang='lat' dir='ltr'>Roman-onum</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 507 185 1071 230">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 507 185 1159 256">
+     <span class='ocr_line' id='line_1_2' title="bbox 507 185 1071 230; baseline 0.008 -4"><span class='ocrx_word' id='word_1_3' title='bbox 507 185 1071 230; x_wconf 77' lang='lat' dir='ltr'>TUBICINEs.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 204 562 1263 1921">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 204 562 1263 1921">
+     <span class='ocr_line' id='line_1_3' title="bbox 204 562 1263 1921; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 204 562 1263 1921; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1355 95 1415 147">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1355 95 1415 147">
+     <span class='ocr_line' id='line_1_4' title="bbox 1355 95 1415 147; baseline 0 -11"><span class='ocrx_word' id='word_1_5' title='bbox 1355 95 1415 147; x_wconf 81' lang='lat'>76</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 1382 2071 1481 2113">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 1382 2071 1481 2113">
+     <span class='ocr_line' id='line_1_5' title="bbox 1382 2071 1481 2113; baseline -0.01 0"><span class='ocrx_word' id='word_1_6' title='bbox 1382 2071 1481 2113; x_wconf 59' lang='lat' dir='ltr'>L10</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

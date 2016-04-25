@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumromanorum00duch_0435.png"; bbox 0 0 1748 2459; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 198 105 1333 163">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 198 105 1333 163">
+     <span class='ocr_line' id='line_1_1' title="bbox 198 105 1333 163; baseline 0.006 -17"><span class='ocrx_word' id='word_1_1' title='bbox 198 105 1113 161; x_wconf 65' lang='lat' dir='ltr'>GRAECORUMROMANORUMQUE.</span> <span class='ocrx_word' id='word_1_2' title='bbox 1251 126 1333 163; x_wconf 87' lang='lat'><em>117</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 213 203 1197 338">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 213 203 1197 338">
+     <span class='ocr_line' id='line_1_2' title="bbox 213 203 1197 273; baseline 0.007 -24"><span class='ocrx_word' id='word_1_3' title='bbox 213 203 341 269; x_wconf 72' lang='lat' dir='ltr'><em>Pugna</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 354 222 434 250; x_wconf 82' lang='lat' dir='ltr'><em>cum</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 450 203 613 250; x_wconf 70' lang='lat' dir='ltr'><em>Ceflibtcs</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 635 206 731 250; x_wconf 74' lang='lat' dir='ltr'><em>inter</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 754 207 896 252; x_wconf 69' lang='lat' dir='ltr'><em>Darem</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 919 216 972 255; x_wconf 58' lang='grc' dir='ltr'><em>(φ’</em></span> <span class='ocrx_word' id='word_1_9' title='bbox 987 209 1197 273; x_wconf 80' lang='lat' dir='ltr'><em>Antellum,</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 413 270 986 338; baseline 0.01 -24"><span class='ocrx_word' id='word_1_10' title='bbox 413 270 522 331; x_wconf 72' lang='lat' dir='ltr'><em>juxta</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 543 270 810 333; x_wconf 74' lang='lat' dir='ltr'><em>descriptioezem</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 821 273 986 338; x_wconf 70' lang='lat' dir='ltr'><em>Virgilii,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 111 610 1205 1924">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 111 610 1205 1924">
+     <span class='ocr_line' id='line_1_4' title="bbox 111 610 1205 1924; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 111 610 1205 1924; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

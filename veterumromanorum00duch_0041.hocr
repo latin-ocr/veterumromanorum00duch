@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumromanorum00duch_0041.png"; bbox 0 0 1826 2532; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 362 82 1324 146">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 362 82 1324 146">
+     <span class='ocr_line' id='line_1_1' title="bbox 362 82 1324 146; baseline 0.006 -20"><span class='ocrx_word' id='word_1_1' title='bbox 358 84 657 143; x_wconf 59' lang='lat' dir='ltr'>VETgRUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 689 82 732 127; x_wconf 75' lang='lat' dir='ltr'>R</span> <span class='ocrx_word' id='word_1_3' title='bbox 715 99 823 144; x_wconf 56' lang='lat'><strong>0331</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 839 97 1130 146; x_wconf 35' lang='lat' dir='ltr'><strong>Axokumm</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1302 107 1324 132; x_wconf 73' lang='lat' dir='ltr'><em>z</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 262 135 1297 711">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 262 135 1297 711">
+     <span class='ocr_line' id='line_1_2' title="bbox 262 135 1297 711; baseline 0 1821"><span class='ocrx_word' id='word_1_6' title='bbox 262 135 1297 711; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 212 732 1261 819">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 212 732 1261 819">
+     <span class='ocr_line' id='line_1_3' title="bbox 212 732 1261 819; baseline -0.008 -36"><span class='ocrx_word' id='word_1_7' title='bbox 212 742 216 819; x_wconf 47' lang='lat' dir='ltr'>J</span> <span class='ocrx_word' id='word_1_8' title='bbox 246 732 747 783; x_wconf 79' lang='lat' dir='ltr'><strong>DOMITIANUS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 770 732 1261 786; x_wconf 69' lang='lat' dir='ltr'><strong>VESPASIANUS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 212 801 1108 934">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 212 801 1108 934">
+     <span class='ocr_line' id='line_1_4' title="bbox 212 801 1108 934; baseline 0.003 -99"><span class='ocrx_word' id='word_1_10' title='bbox 212 823 216 934; x_wconf 40' lang='grc' dir='ltr'><em>Ι</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 393 807 578 838; x_wconf 35' lang='lat' dir='ltr'><strong>&amp;mvnvs</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 933 801 1076 824; x_wconf 54' lang='lat' dir='ltr'><strong>Anu</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1074 801 1108 823; x_wconf 46' lang='grc' dir='ltr'><strong>ὅ·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 201 841 1319 1951">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 201 841 1319 1951">
+     <span class='ocr_line' id='line_1_5' title="bbox 201 841 1319 1951; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 201 841 1319 1951; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

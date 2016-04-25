@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./veterumromanorum00duch_0366.png"; bbox 0 0 1748 2459; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 949 367 1239 373">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 949 367 1239 373">
+     <span class='ocr_line' id='line_1_1' title="bbox 949 367 1239 373; textangle 180"><span class='ocrx_word' id='word_1_1' title='bbox 949 367 1239 373; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 518 494 1601 2029">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 518 494 1601 2029">
+     <span class='ocr_line' id='line_1_2' title="bbox 518 494 1601 2029; textangle 180"><span class='ocrx_word' id='word_1_2' title='bbox 518 494 1601 2029; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 708 265 1247 330">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 708 265 1247 330">
+     <span class='ocr_line' id='line_1_3' title="bbox 708 265 1247 330; baseline 0.009 -21"><span class='ocrx_word' id='word_1_3' title='bbox 708 265 806 328; x_wconf 72' lang='lat' dir='ltr'>apud</span> <span class='ocrx_word' id='word_1_4' title='bbox 820 265 1080 330; x_wconf 56' lang='lat' dir='ltr'><em>Romanorum</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1095 278 1247 315; x_wconf 63' lang='lat' dir='ltr'><em>veteres.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 431 189 1586 263">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 431 189 1586 263">
+     <span class='ocr_line' id='line_1_4' title="bbox 431 189 1586 263; baseline 0.008 -16"><span class='ocrx_word' id='word_1_6' title='bbox 431 205 792 250; x_wconf 64' lang='lat' dir='ltr'>s1&lt;3N1FER</span> <span class='ocrx_word' id='word_1_7' title='bbox 823 210 1176 263; x_wconf 78' lang='lat' dir='ltr'>EQUITUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 1211 189 1586 256; x_wconf 67' lang='lat' dir='ltr'>LEViORUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 410 112 464 163">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 410 112 464 163">
+     <span class='ocr_line' id='line_1_5' title="bbox 410 112 464 163; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 410 112 464 163; x_wconf 76' lang='lat'>48</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 771 110 1284 154">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 771 110 1284 154">
+     <span class='ocr_line' id='line_1_6' title="bbox 771 110 1284 154; baseline 0.006 -3"><span class='ocrx_word' id='word_1_10' title='bbox 771 110 1048 152; x_wconf 68' lang='lat' dir='ltr'>CAsTRAM</span> <span class='ocrx_word' id='word_1_11' title='bbox 1073 125 1284 154; x_wconf 74' lang='lat' dir='ltr'>ETATIO</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
